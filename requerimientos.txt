@@ -1,5 +1,6 @@
-pandas
-sqlalchemy
-psycopg2-binary
-scikit-learn
-streamlit
+pandas==2.2.2
+sqlalchemy==2.0.30
+psycopg2==2.9.9
+scikit-learn==1.5.2
+streamlit==1.39.0
+
